@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户界面</title>
+    <script>
+        function exit() {
+            var flag = confirm("是否退出？");
+            if (flag){
+                self.location = "../index.jsp";
+            }
+        }
+
+        function reservation() {
+            self.location = "UserRes.jsp";
+        }
+
+        function res() {
+            self.location = "result.jsp";
+        }
+    </script>
+</head>
+<body background="/img/timg.jpg">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align="center">请选择要进行的模块</h3>
+<table align="center">
+    <tr>
+        <td>
+            <button id="1" onclick="reservation()" style="width: 100px">开始约车</button><br>
+            <button id="2" onclick="res()" style="width: 100px">预约结果查询</button><br>
+            <button id="3" onclick="exit()" style="width: 100px">退出</button><br>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
