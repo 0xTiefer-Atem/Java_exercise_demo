@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTest/JavaTest.iml" filepath="$PROJECT_DIR$/JavaTest/JavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_exercise_demo.iml" filepath="$PROJECT_DIR$/.idea/Java_exercise_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-design/Search_Package/Search_Package.iml" filepath="$PROJECT_DIR$/android-design/Search_Package/Search_Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Redis/redis/demo.iml" filepath="$PROJECT_DIR$/SpringBoot-Redis/redis/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern/design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingtest/shardingtest.iml" filepath="$PROJECT_DIR$/shardingtest/shardingtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-study/spring-mvc-study.iml" filepath="$PROJECT_DIR$/spring-mvc-study/spring-mvc-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcDemo/SpringMvcStudy/spring-mvc-study (1).iml" filepath="$PROJECT_DIR$/SpringMvcDemo/SpringMvcStudy/spring-mvc-study (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/apollo-mysql/springboot-apollo.iml" filepath="$PROJECT_DIR$/apollo-mysql/springboot-apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-apollo/springboot-apollo (1).iml" filepath="$PROJECT_DIR$/springboot-apollo/springboot-apollo (1).iml" />
+    </modules>
+  </component>
+</project>

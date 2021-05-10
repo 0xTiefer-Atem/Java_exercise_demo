@@ -1,4 +1,3 @@
-package com.imooc;
 
 import java.io.BufferedReader;
 import java.io.IOException;
