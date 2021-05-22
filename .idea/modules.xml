@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaTest/JavaTest.iml" filepath="$PROJECT_DIR$/JavaTest/JavaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_exercise_demo.iml" filepath="$PROJECT_DIR$/.idea/Java_exercise_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-design/Search_Package/Search_Package.iml" filepath="$PROJECT_DIR$/android-design/Search_Package/Search_Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Security_Demo/Spring_Security_Demo.iml" filepath="$PROJECT_DIR$/Spring_Security_Demo/Spring_Security_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Redis/redis/demo.iml" filepath="$PROJECT_DIR$/SpringBoot-Redis/redis/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern/design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/shardingtest/shardingtest.iml" filepath="$PROJECT_DIR$/shardingtest/shardingtest.iml" />
