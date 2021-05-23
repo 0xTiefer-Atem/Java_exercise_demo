@@ -1,40 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/SpringMvcDemo/SpringMvcStudy/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/SpringMvcDemo/SpringMvcStudy/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/spring-mvc-study/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/spring-mvc-study/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/SpringMvcDemo/springmvctest/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/SpringMvcDemo/springmvctest/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/TomCat-JspDemo/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/TomCat-JspDemo/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/JavaOptFIle/coreJava/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaOptFIle/coreJava" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaSocket" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Jsoup/Jsoup/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MyBatis/mybatistest/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Netty/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/NettyServerDemo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/OptFile/exam/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/RpcDemo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SocketUploadFile/SocketUploadFile/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SpringMvcDemo/springmvctest/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ThreadDemo/thread/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TomCat-JspDemo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Udp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/UdpTest/udp/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/WebSocketDemo/Robot_WebSocket/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/code_demo/FileDemo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/code_demo/Http/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/jvmTest/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/springtest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaTest/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="library" name="lib (2)" level="project" />
-    <orderEntry type="library" name="lib (3)" level="project" />
-    <orderEntry type="library" name="lib (4)" level="project" />
-    <orderEntry type="library" name="lib (5)" level="project" />
-    <orderEntry type="library" name="lib (6)" level="project" />
-    <orderEntry type="library" name="lib (7)" level="project" />
-    <orderEntry type="library" name="lib (8)" level="project" />
-    <orderEntry type="library" name="lib (9)" level="project" />
-    <orderEntry type="library" name="lib (10)" level="project" />
-    <orderEntry type="library" name="lib (11)" level="project" />
   </component>
 </module>
